@@ -8,7 +8,7 @@ public class ProdutoTest {
 
 	@Test
 	public void test() {
-		
+		Produto p = new Produto();
 	}
 
 }
